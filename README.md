@@ -1,0 +1,65 @@
+### 🚀 Hi there 👋 im Jeel Goti | MERN Stack Developer
+
+# 💫 About Me:
+Passionate about leveraging technology to create impactful solutions, I am a Full Stack developer seeking a challenging opportunity to enhance my skills and contribute to achieving the goals of forward-thinking companies. 
+I have 2.3+ years of experience in the field. My journey began with internship training at Sensussoft software pvt. ltd., Surat, where I immersed myself in Front-End and Back-End technologies, mastering React.js and Node.js.
+
+<!-- ### :pushpin: Key Attributes:
+💡 **Quick Learner:** Rapidly adapt to new technologies, ensuring versatility across various stack technologies.</br>
+🎯 **Goal-oriented:** Dedicated to achieving company objectives through hard work and perseverance.</br>
+🤝 **Collaborative Spirit:** Thrive in team environments, fostering innovation through collaboration and knowledge sharing.</br>
+📈 **Problem Solver:** Identify and resolve complex issues, delivering efficient and effective solutions.</br> -->
+
+### :man_technologist: My technogoly stack
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css3&logoColor=0774db)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=dbc607)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=0794db)
+![React](https://img.shields.io/badge/react-090909?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-090909?style=for-the-badge&logo=react-router&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-090909?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack&logoColor=88CEF3)
+![NPM](https://img.shields.io/badge/-npm-090909?style=for-the-badge&logo=npm&logoColor=88CC53635EF3)
+![NodeJS](https://img.shields.io/badge/node.js-090909?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### :sunglasses: Seeking: 
+A challenging role where I can apply my expertise and continue learning while contributing to the success of dynamic projects.
+
+### 🌐 Socials:
+[![Email](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=gmail&logoColor=0774db)](mailto:jeelgoti115@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedIn&logoColor=0EA5E9)](https://www.linkedin.com/in/jeel-goti-b9a984280)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-090909?style=for-the-badge&logo=globe&logoColor=0EA5E9)]() -->
+
+### :handshake: Let's collaborate and innovate together to drive success!
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tejasv-tagline/tejasv-tagline/snake-output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tejasv-tagline/tejasv-tagline/snake-output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tejasv-tagline/tejasv-tagline/snake-output/github-contribution-grid-snake.svg"/>
+  </picture>
+</p>
+
+<!-- 📧 Email: jeelgoti115@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/jeel-goti-b9a984280
+
+🌐 Portfolio: link here -->
+
+
+
+<!--
+**Jeelgoti/jeelgoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
