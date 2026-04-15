@@ -1,4 +1,4 @@
-### 🚀 Hi there 👋 im Jeel Goti | MERN Stack Developer
+### 🚀 Hi there 👋 im Jeel Goti | Full Stack Developer
 
 # 💫 About Me:
 Passionate about leveraging technology to create impactful solutions, I am a Full Stack developer seeking a challenging opportunity to enhance my skills and contribute to achieving the goals of forward-thinking companies. 
