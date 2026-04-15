@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 Passionate about leveraging technology to create impactful solutions, I am a Full Stack developer seeking a challenging opportunity to enhance my skills and contribute to achieving the goals of forward-thinking companies. 
-I have 2.3+ years of experience in the field. My journey began with internship training at Sensussoft software pvt. ltd., Surat, where I immersed myself in Front-End and Back-End technologies, mastering React.js and Node.js.
+I have 4 months of experience as intern student in the field. My journey began with internship training at Sensussoft software pvt. ltd., Surat, where I immersed myself in Front-End and Back-End technologies, mastering React.js and Node.js.
 
 <!-- ### :pushpin: Key Attributes:
 💡 **Quick Learner:** Rapidly adapt to new technologies, ensuring versatility across various stack technologies.</br>
